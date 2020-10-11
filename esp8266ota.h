@@ -1,3 +1,5 @@
+#pragma once
+
 #include <ArduinoOTA.h>
 #include <string>
 #include <ESP8266mDNS.h>
